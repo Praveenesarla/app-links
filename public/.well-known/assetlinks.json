@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.awesomeproject",
+            "sha256_cert_fingerprints": [
+                "2D:5E:44:EA:EC:91:7F:D2:A3:25:E5:3B:B5:3E:1A:89:0B:E4:CC:CD:CB:88:F4:9E:D3:AE:B3:F2:3C:1E:6C:62"
+            ]
+        }
+    }
+]
